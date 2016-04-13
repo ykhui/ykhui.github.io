@@ -1,0 +1,24 @@
+/*
+	Astral by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+/* Basic */
+/* line 14, ie8.css.scss */
+body {
+  background-image: url("images/bg.jpg");
+  background-size: cover;
+  -ms-behavior: url("assets/js/ie/backgroundsize.min.htc"); }
+
+/* Section/Article */
+/* line 23, ie8.css.scss */
+section > .last-child, section.last-child, article > .last-child, article.last-child {
+  margin-bottom: 0; }
+
+/* Nav */
+/* line 33, ie8.css.scss */
+#nav a span {
+  display: none !important; }
+/* line 37, ie8.css.scss */
+#nav a:before {
+  font-size: 1.75em; }
